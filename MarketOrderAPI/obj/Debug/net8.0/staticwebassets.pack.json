@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aydin\\OneDrive\\Desktop\\dePayens\\Projects\\Shop\\MarketOrderAPI\\wwwroot\\images\\default-profile.png",
+      "PackagePath": "staticwebassets\\images\\default-profile.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MarketOrderAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MarketOrderAPI.props",
+      "PackagePath": "build\\MarketOrderAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MarketOrderAPI.props",
+      "PackagePath": "buildMultiTargeting\\MarketOrderAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MarketOrderAPI.props",
+      "PackagePath": "buildTransitive\\MarketOrderAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

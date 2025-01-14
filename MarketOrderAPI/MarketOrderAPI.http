@@ -1,0 +1,6 @@
+@MarketOrderAPI_HostAddress = http://localhost:5043
+
+GET {{MarketOrderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
